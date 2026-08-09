@@ -9,18 +9,16 @@ I like turning ideas into working software. 🚀
 - 🏗️ Structo_X
 - 🤖 AI Resume Analyzer
 - 📊 Excel Analytics Dashboard
-
 ## 🛠️ Tech Stack
 
-Python • Java • JavaScript • SQL • Flask • Git
+### Languages
+🐍 Python • ☕ Java • 💻 C/C++ • 🌐 JavaScript • 🗄️ SQL
 
-## 📚 Currently Learning
+### Frameworks & Tools
+⚡ Flask • Django • Git • GitHub • Docker • VS Code
 
-- Advanced Excel
-- Data Analytics
-- Machine Learning
-- Backend Development
-- System Design
+### Currently Learning
+📊 Advanced Excel • 🤖 Machine Learning • 🔧 Backend Development
 
 ## 🎯 My Goal
 
