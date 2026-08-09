@@ -32,4 +32,4 @@ and turn ideas → code → reality.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hashimhasan786)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohd-hashim-490522307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](w[ww.linkedin.com/in/mohd-hashim-490522307](https://www.linkedin.com/in/mohd-hashim-490522307/)
