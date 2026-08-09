@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Hashim 👋
 
-<!--
-**hashimhasan786/hashimhasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI / Software Engineering Student | B.Tech CS (AI)
 
-Here are some ideas to get you started:
+I like turning ideas into working software. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+- 🏗️ Structo_X
+- 🤖 AI Resume Analyzer
+- 📊 Excel Analytics Dashboard
+
+## 🛠️ Tech Stack
+
+Python • Java • JavaScript • SQL • Flask • Git
+
+## 📚 Currently Learning
+
+- Advanced Excel
+- Data Analytics
+- Machine Learning
+- Backend Development
+- System Design
+
+## 🎯 My Goal
+
+Build practical software, learn continuously,
+and turn ideas → code → reality.
+
+---
+
+### 💭 Ideas → Code → Reality 🚀
